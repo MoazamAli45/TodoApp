@@ -1,6 +1,6 @@
 import React, { EventHandler } from "react";
 import { useRef } from "react";
-import "./NewTodo.css";
+import "./Newtodo.css";
 
 type Props = {
   // as props will be function
